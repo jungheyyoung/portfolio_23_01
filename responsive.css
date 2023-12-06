@@ -185,11 +185,16 @@
         flex-direction: column;
         align-items: center;
     }
+    .design img {
+        width: 100%;
+    }
     .portfolio {
         height: auto;
         padding: 20px;
     }
-
+    .portfolio img {
+        width: 100%;
+    }
     .portfolio h2 {
         font-size: 30px;
     }
